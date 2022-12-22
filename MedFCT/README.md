@@ -19,11 +19,11 @@ ISIC2018 can be downloaded here [link]:https://www.isic-archive.com/
 ## Train  
 For ACDC dataset:
 ```
-python train_MedTrans.py
+python train_MedFCT.py
 ```
 For ISIC dataset:
 ```
-python train_MedTrans_ISIC.py
+python train_MedFCT_ISIC.py
 ```
 ## Test
 ```
