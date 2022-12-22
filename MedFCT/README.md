@@ -1,5 +1,5 @@
 # MedFCT
-Official PyTorch implementation of paper **MEDFCT: A FREQUENCY DOMAIN CONVOLUTIONAL VISION TRANSFORMER FOR SEMI-SUPERVISED MEDICAL IMAGE SEGMENTATION**  
+Official PyTorch implementation of paper **MEDFCT: A Frequency Domain Joint CNN-Transformer Network for semi-supervised medical image segmentation**  
 
 ## Dataset    
 We evaluate our method on ACDC and ISIC datasets respectively.  
